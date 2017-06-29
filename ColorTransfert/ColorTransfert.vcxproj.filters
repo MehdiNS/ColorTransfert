@@ -4,7 +4,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stb_image.h" />
-    <ClInclude Include="stb_image_write.h" />
+    <ClInclude Include="thirdparty\stb_image.h" />
+    <ClInclude Include="thirdparty\stb_image_write.h" />
   </ItemGroup>
 </Project>
